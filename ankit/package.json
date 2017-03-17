@@ -1,0 +1,11 @@
+{
+  "name": "microverse",
+  "version": "1.0.0",
+  "description": "Microverse node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit Patel",
+  "license": "MIT"
+}
